@@ -1,0 +1,5 @@
+{
+    "require": {
+        "delight-im/cookie": "^3.1"
+    }
+}
