@@ -5,7 +5,7 @@
          <div class="alert alert-danger"><?php echo $sess_response; ?></div>
          <?php } ?>
          <h1>Log in</h1>
-         <form method="post">
+         <form method="post"> #User enters their Username and password here, to login to their account
             <input class="string-field" type="text" name="username" placeholder="Username" value="<?php echo $username; ?>" required>
             <input class="password" type="password" name="password" placeholder="Password" value="" required>
             <button class="login-btn" type="submit">Log in</button>
