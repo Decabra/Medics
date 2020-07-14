@@ -1,2 +1,2 @@
 # Medics
- Light weighted pharmacy managment system.
+ Light weighted pharmacy managment system implemented on Apache.
